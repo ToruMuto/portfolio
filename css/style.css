@@ -2458,7 +2458,7 @@ body {
   position: fixed;
   top: 50%;
   background: #CCCCCC;
-  background-image: url(/img/img1.jpg);
+  background-image: url(https://github.com/ToruMuto/portfolio/blob/main/img/img1.jpg?raw=true);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -2471,7 +2471,7 @@ body {
   position: fixed;
   top: 0%;
   background: #CCCCCC;
-  background-image: url(/img/img1.jpg);
+  background-image: url(https://github.com/ToruMuto/portfolio/blob/main/img/img1.jpg?raw=true);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
